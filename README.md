@@ -4,7 +4,20 @@ This template should help get you started developing with Vue 3 and TypeScript i
 
 Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
 我将介绍这个项目使用的技术栈，首先需要查看项目的主要文件和依赖，以便全面了解项目的技术构成。
-        
+        ## 结论
+这个任务规划应用确实主要依赖Vue Flow来实现流程图功能。Vue Flow提供了流程图的核心功能，包括：
+
+1. 1.
+   节点和边的管理
+2. 2.
+   拖拽和连接交互
+3. 3.
+   缩放和平移控制
+4. 4.
+   小地图导航
+5. 5.
+   自定义节点支持
+同时，应用还使用了Element Plus组件库来实现对话框、表单等UI元素，但流程图的核心功能完全依赖于Vue Flow库。
             
 toolName: search_codebase
             
